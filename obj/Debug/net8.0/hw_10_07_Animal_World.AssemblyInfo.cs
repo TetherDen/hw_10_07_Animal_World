@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hw_10_07_Animal_World")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+589d9638afc66a1800a36edad6bee6bb6602e34b")]
 [assembly: System.Reflection.AssemblyProductAttribute("hw_10_07_Animal_World")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hw_10_07_Animal_World")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace hw_10_07_Animal_World
 {
-    internal abstract class Continent
+    internal abstract class ContinentsFactory
     {
+        public abstract Herbivore CreateHerbivore();
+        public abstract Carnivore CreateCarnivore();
     }
 }

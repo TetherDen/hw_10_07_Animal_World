@@ -12,3 +12,4 @@ C:\Users\admin\source\repos\C#_NET_Lessons\hw_10_07_Animal_World\obj\Debug\net8.
 C:\Users\admin\source\repos\C#_NET_Lessons\hw_10_07_Animal_World\obj\Debug\net8.0\hw_10_07_Animal_World.pdb
 C:\Users\admin\source\repos\C#_NET_Lessons\hw_10_07_Animal_World\obj\Debug\net8.0\hw_10_07_Animal_World.genruntimeconfig.cache
 C:\Users\admin\source\repos\C#_NET_Lessons\hw_10_07_Animal_World\obj\Debug\net8.0\ref\hw_10_07_Animal_World.dll
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_10_07_Animal_World\obj\Debug\net8.0\hw_10_07_Animal_World.sourcelink.json

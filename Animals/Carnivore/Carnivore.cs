@@ -9,7 +9,7 @@ namespace hw_10_07_Animal_World
     internal abstract class Carnivore
     {
         public int Power { get; set; }
-        protected abstract void Eat(Herbivore herbivore);
+        public abstract void Eat(Herbivore herbivore);
     }
 
 

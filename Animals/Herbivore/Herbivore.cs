@@ -9,7 +9,8 @@ namespace hw_10_07_Animal_World
     internal abstract class Herbivore
     {
         public int Weight { get; set; }
-        public int Life { get; set; }
-        protected abstract void EatGrass();
+        public  bool Life {  get; set; }
+        public Herbivore() { Life = true; }
+        public abstract void EatGrass();
     }
 }
